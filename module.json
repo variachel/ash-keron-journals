@@ -2,11 +2,11 @@
     "id": "ash-keron-journals",
     "title": "Ash Keron Journals",
     "description": "Journal compendium for Ash Keron",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "compatibility": {
-        "minimum": "10",
-        "verified": "10",
-        "maximum": "10"
+        "minimum": "11",
+        "verified": "11",
+        "maximum": "11"
     },
     "authors": [
         {
@@ -18,7 +18,7 @@
         {
             "name": "module-journal-entries",
             "label": "Ash Keron Journal Entries",
-            "path": "packs/journal-entries.db",
+            "path": "packs/journal-entries",
             "type": "JournalEntry",
             "private": false,
             "flags": {}
@@ -26,5 +26,5 @@
     ],
     "url": "https://github.com/variachel/ash-keron-journals",
     "manifest": "https://github.com/variachel/ash-keron-journals/releases/latest/download/module.json",
-    "download": "https://github.com/variachel/ash-keron-journals/archive/v1.2.0.zip"
+    "download": "https://github.com/variachel/ash-keron-journals/archive/v1.3.0.zip"
 }
